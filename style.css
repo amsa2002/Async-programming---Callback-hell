@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+
+h3
+{
+    font-size: 60px;
+    display: flex;
+    align-items:center ;
+    margin: 200px auto;
+    justify-content: center;
+}
